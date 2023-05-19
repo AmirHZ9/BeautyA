@@ -164,7 +164,8 @@ export default {
       rose: colors.rose,  
       grayText:'#202020',
       grayBorder:'#868686',
-      bgSlider:'rgba(20, 1, 10,0.6)'
+      bgSlider:'rgba(20, 1, 10,0.6)',
+      bgBanner:'#3D021E'
     
     }),
     columns: {
