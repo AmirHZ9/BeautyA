@@ -1,3 +1,10 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+@font-face {
+    font-family: "sans";
+    src: url('./fonts/OpenSans_Condensed-Regular.ttf');
+}
+body{
+    font-family:'sans';
+}

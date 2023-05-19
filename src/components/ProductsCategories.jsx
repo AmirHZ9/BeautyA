@@ -26,8 +26,8 @@ export default function ProductsCategories() {
           </li>
         </ul>
       </div>
-      <div className="h-[193px] mb-16 lg:mx-[108px] flex  md:h-auto mt-14  bg-bgBanner relative">
-        <div className="hidden text-white my-10 ml-[104px] mr-6 md:block  ">
+      <div className="h-[193px] mb-16 lg:mx-[108px] flex justify-between  md:h-auto mt-14  bg-bgBanner relative">
+        <div className="hidden text-white my-10 ml-[104px] mr-6 md:block">
           <p className="mb-2 font-bold text-2xl ">Our Brand</p>
           <p className=" leading-7 ">
             We believe that beauty thrives in diversity and discovery. Our
@@ -36,7 +36,7 @@ export default function ProductsCategories() {
           </p>
           <button className="border px-9 py-2 mt-2">Discover More</button>
         </div>
-        <div className=" text-white my-10   md:hidden flex w-full justify-center">
+        <div className="text-white my-10   md:hidden flex w-full justify-center">
           <p className="mb-2 font-bold text-2xl absolute top-4  text-center">Our Brand</p>
           <div className="absolute top-[278px] flex flex-col justify-center items-center">
             <p className=" leading-7 text-black px-5 mb-3 text-justify">
@@ -52,8 +52,8 @@ export default function ProductsCategories() {
         <div className="absolute top-16 flex justify-center w-full md:relative md:block md:w-auto md:top-0">
           <img
             src={brand}
-            alt="brandimg "
-            className="hidden md:block md:h-full md:object-cover"
+            alt="brandimg"
+            className="hidden md:inline-block md:h-full md:object-cover"
           />
           <img src={brandM} alt="BrandM" className="md:hidden" />
         </div>

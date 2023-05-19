@@ -162,6 +162,8 @@ export default {
       fuchsia: colors.fuchsia,
       pink: colors.pink,
       rose: colors.rose,  
+      primary:'#A10550',
+      black:"#0c0c0c",
       grayText:'#202020',
       grayBorder:'#868686',
       bgSlider:'rgba(20, 1, 10,0.6)',
