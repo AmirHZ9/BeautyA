@@ -4,6 +4,7 @@ import Slider from "./components/Slider";
 import ProductsCategories from "./components/ProductsCategories";
 import BestSellers from "./components/BestSellers";
 import New from "./components/New";
+import SpecialOffers from "./components/SpecialOffers";
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <ProductsCategories/>
       <BestSellers/>
       <New/>
+      <SpecialOffers/>
     </>
   );
 }

@@ -164,6 +164,7 @@ export default {
       rose: colors.rose,  
       primary:'#A10550',
       secondary:"#FDABD2",
+      pink:"#fbeff2",
       black:"#0c0c0c",
       newbg:"#3d021e",
       grayText:'#202020',
