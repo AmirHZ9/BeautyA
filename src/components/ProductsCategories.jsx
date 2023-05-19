@@ -39,7 +39,7 @@ export default function ProductsCategories() {
         <div className=" text-white my-10   md:hidden flex w-full justify-center">
           <p className="mb-2 font-bold text-2xl absolute top-4  text-center">Our Brand</p>
           <div className="absolute top-[278px] flex flex-col justify-center items-center">
-            <p className=" leading-7 text-black px-5 mb-3">
+            <p className=" leading-7 text-black px-5 mb-3 text-justify">
               We believe that beauty thrives in diversity and discovery. Our
               purpose is to expand the way the world sees beauty by empowering
               the Extraordinary in each of us.
