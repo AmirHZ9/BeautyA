@@ -2,9 +2,9 @@ import React from "react";
 import banner from "../assets/offers/offers.png";
 export default function SpecialOffers() {
   return (
-    <div className="flex justify-center items-center flex-wrap xl:flex-nowrap xl:bg-pink mt-14">
+    <div className="flex px-[108px] justify-center  items-center flex-wrap xl:flex-nowrap xl:bg-pink xl:justify-between  mt-14">
       <div>
-        <img src={banner} alt="banner" />
+        <img src={banner} alt="banner"  />
       </div>
       <div className="mt-14 mx-12 xl:ml-12 xl:mr-[108px] mb-10">
         <h1 className="font-bold text-2xl">Special Offers</h1>

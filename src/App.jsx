@@ -5,6 +5,7 @@ import ProductsCategories from "./components/ProductsCategories";
 import BestSellers from "./components/BestSellers";
 import New from "./components/New";
 import SpecialOffers from "./components/SpecialOffers";
+import SkincareAnanlsis from "./components/SkincareAnanlsis";
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
       <BestSellers/>
       <New/>
       <SpecialOffers/>
+      <SkincareAnanlsis/>
     </>
   );
 }
