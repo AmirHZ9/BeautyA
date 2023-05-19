@@ -10,7 +10,7 @@ export default function New() {
       </h1>
       <div className="flex justify-center mx-5  md:px-[108px] mt-8">
         <div className=" mr-6">
-          <img src={banner} alt="banner" />
+          <img src={banner} alt="banner" className="w-full"/>
           <p className="text-secondary font-bold text-xl md:text-2xl">
             Beautya La Mousse Off/On Foaming Cleaner
           </p>
@@ -22,7 +22,7 @@ export default function New() {
         <div className="hidden md:block">
           <ul className="flex">
             <li className="mr-6 bg-white">
-              <img src={product1} alt="product1" />
+              <img src={product1} alt="product1" className="w-full"/>
               <div className="mx-4 mt-4 mb-6">
                 <p className="text-primary font-bold">
                   Beautya Capture Total Dreamskin Care & Perfect
@@ -34,7 +34,7 @@ export default function New() {
               </div>
             </li>
             <li className="bg-white">
-              <img src={product2} alt="product2" />
+              <img src={product2} alt="product2"  className="w-full"/>
               <div className="mx-4 mt-4 mb-6">
                 <p className="text-primary font-bold">
                   Beautya Capture Total Dreamskin Care & Perfect
