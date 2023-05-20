@@ -8,6 +8,7 @@ import SpecialOffers from "./components/SpecialOffers";
 import SkincareAnanlsis from "./components/SkincareAnanlsis";
 import Blog from "./components/Blog";
 
+
 function App() {
   return (
     <>
@@ -19,6 +20,7 @@ function App() {
       <SpecialOffers/>
       <SkincareAnanlsis/>
       <Blog/>
+   
     </>
   );
 }

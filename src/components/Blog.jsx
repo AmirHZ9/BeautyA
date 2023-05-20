@@ -49,7 +49,7 @@ export default function Blog() {
           </li>
         </ul>
       </div>
-      <div className=" ">
+      <div className="xl:hidden ">
         <ul className="flex justify-center mt-7">
           <li className="w-6 h-1 bg-[#A10550] border border-[#fa58a6] mx-1"></li>
           <li className="w-6 h-1 bg-[#cbcbcb] mx-1"></li>
