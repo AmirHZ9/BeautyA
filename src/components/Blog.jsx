@@ -4,7 +4,7 @@ import Blog2 from "../assets/blog/blog2.png"
 import Blog3 from "../assets/blog/blog3.png"
 export default function Blog() {
   return (
-    <div className="mx-[108px]">
+    <div className=" mx-5 xl:mx-[108px]">
       <h1 className="font-bold text-2xl w-full text-center mt-14 mb-8">Our Blog</h1>
       <div>
         <ul className="flex justify-center items-center">
@@ -34,7 +34,7 @@ export default function Blog() {
 
             </div>
           </li>
-          <li className="mr-6 border border-[#dfdfdf]">
+          <li className=" border border-[#dfdfdf]">
             <img src={Blog3} alt="blogimg" className="w-full object-cover"/>
             <div className="m-6">
 
