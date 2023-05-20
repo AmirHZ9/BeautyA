@@ -20,7 +20,7 @@ export default function Slider() {
           <li className="w-6 h-1 bg-[#cbcbcb] mx-1"></li>
         </ul>
       </div>
-      <div className="absolute bg-[rgba(12,12,12,0.4)] right-0 top-0 h-full w-20 flex items-center justify-center">
+      <div className="absolute bg-[rgba(12,12,12,0.4)] hidden  right-0 top-0 h-full w-20 md:flex items-center justify-center">
         <svg
           xmlns="http://www.w3.org/2000/svg"
           fill="none"
@@ -36,7 +36,7 @@ export default function Slider() {
           />
         </svg>
       </div>
-      <div className="absolute bg-[rgba(12,12,12,0.4)] left-0 top-0 h-full w-20 flex items-center justify-center">
+      <div className="absolute bg-[rgba(12,12,12,0.4)] hidden left-0 top-0 h-full w-20 md:flex items-center justify-center">
         <svg
           xmlns="http://www.w3.org/2000/svg"
           fill="none"
