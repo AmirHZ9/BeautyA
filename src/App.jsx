@@ -6,6 +6,7 @@ import BestSellers from "./components/BestSellers";
 import New from "./components/New";
 import SpecialOffers from "./components/SpecialOffers";
 import SkincareAnanlsis from "./components/SkincareAnanlsis";
+import Blog from "./components/Blog";
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
       <New/>
       <SpecialOffers/>
       <SkincareAnanlsis/>
+      <Blog/>
     </>
   );
 }

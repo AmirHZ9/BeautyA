@@ -167,6 +167,7 @@ export default {
       pink:"#fbeff2",
       black:"#0c0c0c",
       newbg:"#3d021e",
+      grayblog:"#606060",
       grayText:'#202020',
       grayBorder:'#868686',
       bgSlider:'rgba(20, 1, 10,0.6)',
