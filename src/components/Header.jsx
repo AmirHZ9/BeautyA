@@ -10,7 +10,7 @@ export default function Header() {
     } else {
       setShow(false);
     }
-    console.log(show);
+  
   };
   return (
     <div className="fixed top-0 left-0 w-full bg-white z-30 pt-14 pb-6 px-5 xl:px-28 flex justify-between items-center">

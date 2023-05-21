@@ -1,4 +1,3 @@
-import { useState } from "react";
 import Header from "./components/Header";
 import Slider from "./components/Slider";
 import ProductsCategories from "./components/ProductsCategories";
@@ -8,6 +7,7 @@ import SpecialOffers from "./components/SpecialOffers";
 import SkincareAnanlsis from "./components/SkincareAnanlsis";
 import Blog from "./components/Blog";
 import Footer from "./components/Footer";
+import Chat from "./components/Chat";
 
 function App() {
   return (
@@ -21,6 +21,7 @@ function App() {
       <SkincareAnanlsis />
       <Blog />
       <Footer />
+      <Chat/>
     </>
   );
 }
