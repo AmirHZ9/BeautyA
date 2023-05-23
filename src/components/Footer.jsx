@@ -117,7 +117,7 @@ export default function Footer() {
               from Beautya. Please review our Privacy Policy, which includes our
               Financial Incentive Notice for CA residents.
             </span>
-            <button className="border text-sm bg-transparent px-4 py-2 mt-4 xl:hidden w-full">
+            <button className="border text-sm bg-transparent px-4 py-2 mt-4 xl:hidden w-full  hover:bg-white hover:text-bgBanner ease-in duration-300">
               Subscribe
             </button>
           </li>

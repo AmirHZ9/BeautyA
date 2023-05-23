@@ -34,7 +34,7 @@ export default function ProductsCategories() {
             purpose is to expand the way the world sees beauty by empowering the
             Extraordinary in each of us.
           </p>
-          <button className="border px-9 py-2 mt-2">Discover More</button>
+          <button className="border px-9 py-2 mt-2  hover:bg-white hover:text-black  ease-in duration-300">Discover More</button>
         </div>
         <div className="text-white my-10   md:hidden flex w-full justify-center">
           <p className="mb-2 font-bold text-2xl absolute top-4  text-center">Our Brand</p>

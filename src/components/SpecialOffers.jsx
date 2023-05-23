@@ -19,7 +19,7 @@ export default function SpecialOffers() {
           offers in make up and skincare products.{" "}
         </p>
         <div className="flex justify-center xl:justify-end">
-          <button className="border border-primary text-primary xl:bg-primary xl:text-white px-9 py-2 mt-2">
+          <button className="border border-primary text-primary xl:bg-primary xl:text-white px-9 py-2 mt-2  hover:bg-primary hover:text-white ease-in duration-300">
             Find Branches
           </button>
         </div>
